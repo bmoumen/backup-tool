@@ -1,0 +1,9 @@
+{
+  "//": "Copie ce fichier en 'config.json' et adapte les chemins a ta machine avant de lancer le script.",
+  "backupName": "config-systeme",
+  "sourcePaths": [
+    "C:\\Users\\TonNom\\AppData\\Roaming\\NomApp\\config",
+    "C:\\Users\\TonNom\\Documents\\ProjetsImportants"
+  ],
+  "destinationRoot": ".\\Backups"
+}

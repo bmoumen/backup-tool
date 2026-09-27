@@ -1,0 +1,5 @@
+# Ne pas versionner les vraies sauvegardes ni la config personnelle (chemins prives)
+Backups/
+Restored/
+config.json
+backup.log
